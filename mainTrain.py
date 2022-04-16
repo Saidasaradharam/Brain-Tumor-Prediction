@@ -1,5 +1,6 @@
 #pip install --upgrade pip
 #pip install opencv-python
+#pip install opencv-contrib-python
 #pip install tensorflow
 #pip install -U scikit-learn
 import cv2
